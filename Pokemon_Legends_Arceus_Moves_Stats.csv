@@ -1,0 +1,178 @@
+Move,Type,Class,PP,Power,Accuracy,Description,User Reg Action Time,User Agile Action Time,User Strong Action Time,Target NonAgile Action Time,Target Agile Action Time
+Absorb,Grass,Special,20,30,100,The user attacks by draining the target's nutrients. Some of the damage dealt to the target is absorbed by the user to restore their own HP.,0,0,5,0,3
+Acid Armor,Poison,Other,20,0,101,"The user alters its cellular structure to liquefy itself, raising its defensive stats.",-3,-4,5,0,0
+Acid Spray,Poison,Special,20,40,100,The user spits fluid that works to melt the target. This may also lower the target's defensive stats.,0,0,5,0,3
+Aerial Ace,Flying,Physical,20,60,101,"The user confounds the target with speed, then slashes. This attack never misses.",0,0,5,0,3
+Air Cutter,Flying,Special,15,60,95,The user launches razor-like wind to slash the target. This move has a heightened chance of landing a critical hit.,0,0,5,0,3
+Air Slash,Flying,Special,10,75,95,The user attacks with a blade of air that slices even the sky.,0,0,5,3,5
+Ancient Power,Rock,Special,15,60,100,The user attacks with a primeval power. This may also raise the user's offensive and defensive stats.,0,0,5,0,3
+Aqua Jet,Water,Physical,20,40,100,"The user lunges at the target to deal damage, moving at a speed that makes it almost invisible. This also raises the user's action speed.",-4,-4,2,0,3
+Aqua Tail,Water,Physical,10,85,90,The user attacks by swinging its tail as if it were a vicious wave in a raging storm.,0,0,5,0,3
+Astonish,Ghost,Physical,25,30,100,The user attacks the target while crying out in a startling fashion.,0,0,5,3,5
+Aura Sphere,Fighting,Special,10,80,101,The user lets loose a blast of aura power from deep within its body at the target. This attack never misses.,0,0,5,0,3
+Baby-Doll Eyes,Fairy,Other,20,0,100,The user stares at the target with its baby-doll eyes. This lowers the target's offensive stats.,-3,-4,5,0,3
+Barb Barrage,Poison,Physical,15,60,100,The user launches countless toxic barbs to inflict damage. This may also poison the target. This move's power is doubled if the target has a status condition.,0,0,5,0,3
+Bite,Dark,Physical,20,60,100,The user bites the target with viciously sharp fangs to inflict damage.,0,0,5,3,5
+Bitter Malice,Ghost,Special,15,60,100,The user attacks its target with spine-chilling resentment. This may also leave the target with frostbite. This move's power is doubled if the target has a status condition.,0,0,5,0,3
+Bleakwind Storm,Flying,Special,5,95,80,The user attacks with savagely cold winds that cause both body and spirit to tremble. This may also leave the target with frostbite.,0,0,5,0,3
+Blizzard,Ice,Special,5,100,75,A howling blizzard is summoned to strike the target. This may also leave the target with frostbite.,0,0,5,0,3
+Brave Bird,Flying,Physical,5,100,100,The user tucks in its wings and charges at a low altitude. This also damages the user.,0,0,5,0,3
+Bubble,Water,Special,25,40,100,The user attacks the target with a spray of countless bubbles.,0,0,5,3,5
+Bug Buzz,Bug,Special,10,80,100,The user vibrates to generate a damaging sound wave. This may also lower the target's defensive stats.,0,0,5,0,3
+Bulk Up,Fighting,Other,10,0,101,"The user tenses its muscles to bulk up its body, raising its offensive and defensive stats.",-2,-3,5,0,0
+Bulldoze,Ground,Physical,20,60,100,"The user tramples its target into the ground, dealing damage. This also lowers the target's action speed.",0,0,5,3,5
+Bullet Punch,Steel,Physical,20,40,100,The user strikes the target with tough punches as fast as bullets. This also raises the user's action speed.,-4,-4,2,0,3
+Calm Mind,Psychic,Other,10,0,101,The user quietly focuses its mind and calms its spirit to raise its offensive and defensive stats.,-2,-3,5,0,0
+Ceaseless Edge,Dark,Physical,15,65,90,"The user slashes its shell blade at the target, aiming to land a critical hit. Shell splinters left behind by this attack will continue to damage the target for several turns.",0,0,5,0,3
+Charge Beam,Electric,Special,15,50,90,The user attacks the target with an electric charge. The leftover electricity may also raise the user's offensive stats.,0,0,5,0,3
+Chloroblast,Grass,Special,5,120,95,The user launches its amassed chlorophyll to inflict damage on the target. This also damages the user and lowers the user's action speed.,5,2,8,0,3
+Close Combat,Fighting,Physical,5,100,100,"The user fights the target up close, inflicting damage without guarding itself. This also lowers the user's defensive stats.",0,0,5,0,3
+Confusion,Psychic,Special,20,50,100,The target is hit with a weak telekinetic force to inflict damage.,0,0,5,0,3
+Cross Poison,Poison,Physical,15,70,100,A slashing attack with a toxic blade that may also poison the target. This move has a heightened chance of landing a critical hit.,0,0,5,0,3
+Crunch,Dark,Physical,10,80,100,The user crunches up the target with sharp fangs. This may also lower the target's defensive stats.,0,0,5,0,3
+Crush Grip,Normal,Physical,5,100,100,"The target is crushed with great force. The more HP the target has left, the greater this move's power.",0,0,5,3,5
+Dark Pulse,Dark,Special,10,80,101,The user releases a horrible aura imbued with ill intent. This attack never misses.,0,0,5,0,3
+Dark Void,Dark,Other,10,0,90,The target is dragged into a world of total darkness that makes the target drowsy and lowers its defensive stats.,5,2,8,0,3
+Dazzling Gleam,Fairy,Special,10,75,100,The user emits a powerful flash of light to inflict damage on the target.,0,0,5,0,3
+Dire Claw,Poison,Physical,15,60,100,"The user lashes out at the target with ruinous claws, aiming to land a critical hit. This may also leave the target poisoned, paralyzed, or drowsy.",0,0,5,0,3
+Double Hit,Normal,Other,10,0,101,The user adopts a hard-hitting stance to increase the damage dealt by its moves by 50 percent.,-3,-4,5,0,0
+Double-Edge,Normal,Physical,5,100,100,"A reckless, life-risking tackle in which the user rushes the target. This also damages the user.",0,0,5,0,3
+Draco Meteor,Dragon,Special,5,110,90,Comets are summoned down from the sky onto the target. The recoil from this move lowers the user's offensive stats.,0,0,5,0,3
+Dragon Claw,Dragon,Physical,10,80,100,"The user slashes the target with huge, sharp claws. This move has a heightened chance of landing a critical hit.",0,0,5,0,3
+Dragon Pulse,Dragon,Special,10,80,101,The target is attacked with a shock wave generated by the user's gaping mouth. This attack never misses.,0,0,5,0,3
+Drain Punch,Fighting,Physical,10,75,100,The user attacks with an energy-draining punch that restores the user's HP.,0,0,5,0,3
+Draining Kiss,Fairy,Special,15,50,100,The user attacks with an energy-draining kiss that restores the user's HP.,0,0,5,0,3
+Earth Power,Ground,Special,10,80,100,The user makes the ground under the target erupt with power. This may also lower the target's defensive stats.,0,0,5,0,3
+Ember,Fire,Special,25,40,100,The target is attacked with small flames. This may also leave the target with a burn.,0,0,5,0,3
+Energy Ball,Grass,Special,10,80,100,The user draws power from nature and fires it at the target. This may also lower the target's defensive stats.,0,0,5,0,3
+Esper Wing,Psychic,Special,10,75,90,The user slashes the target with aura-enriched wings. This also raises the user's action speed. This move has a heightened chance of landing a critical hit.,-4,-4,2,0,3
+Extrasensory,Psychic,Special,15,70,100,"The user attacks with an odd, unseeable power.",0,0,5,3,5
+Fairy Wind,Fairy,Special,25,40,100,The user stirs up a fairy wind and strikes the target with it.,0,0,5,3,5
+False Swipe,Normal,Physical,30,40,100,A restrained attack that prevents the target from fainting. The target is left with at least 1 HP.,0,0,5,0,3
+Fire Blast,Fire,Special,5,100,85,The target is attacked with an intense blast of all-consuming fire. This may also leave the target with a burn.,0,0,5,0,3
+Fire Fang,Fire,Physical,15,65,95,The user bites the target with flame-cloaked fangs to deal damage. This may also leave the target with a burn.,0,0,5,3,5
+Fire Punch,Fire,Physical,10,75,100,The target is punched with a fiery fist. This may also leave the target with a burn.,0,0,5,0,3
+Flame Wheel,Fire,Physical,20,60,100,The user cloaks itself in fire and charges at the target to deal damage. This may also leave the target with a burn.,0,0,5,0,3
+Flamethrower,Fire,Special,10,80,100,The target is scorched with an intense blast of fire. This may also leave the target with a burn.,0,0,5,0,3
+Flare Blitz,Fire,Physical,5,100,100,The user cloaks itself in fire and charges the target to inflict damage. This also damages the user and may leave the target with a burn.,0,0,5,0,3
+Flash Cannon,Steel,Special,10,80,100,The user gathers all its light energy and releases it at once. This may also lower the target's defensive stats.,0,0,5,0,3
+Focus Energy,Normal,Other,20,0,101,The user takes a deep breath and focuses so that its future attacks have a heightened chance of landing critical hits.,-3,-4,5,0,0
+Giga Impact,Normal,Physical,5,120,90,The user charges at the target using every bit of its power.,5,2,8,0,3
+Gust,Flying,Special,25,40,100,A gust of wind is whipped up by wings and launched at the target to inflict damage.,0,0,5,0,3
+Head Smash,Rock,Physical,5,120,80,"The user attacks the target with a hazardous, full-power headbutt. This also damages the user.",0,0,5,0,3
+Headlong Rush,Ground,Physical,5,100,100,The user smashes into the target in a full-body tackle. This also lowers the user's defensive stats.,0,0,5,0,3
+Hex,Ghost,Special,15,65,100,The user attacks with relentless intensity. This move's power is doubled if the target has a status condition.,0,0,5,0,3
+Hidden Power,Normal,Special,15,50,100,"Through some mysterious power, this move changes type to deal supereffective damage to the target.",0,0,5,0,3
+High Horsepower,Ground,Physical,10,85,95,The user fiercely attacks the target using its entire body.,0,0,5,0,3
+Hurricane,Flying,Special,5,100,75,The user attacks by wrapping its opponent in a fierce wind.,0,0,5,0,3
+Hydro Pump,Water,Special,5,100,85,The target is blasted by a huge volume of water launched under great pressure.,0,0,5,0,3
+Hyper Beam,Normal,Special,5,120,90,The target is attacked with a powerful beam.,5,2,8,0,3
+Hypnosis,Psychic,Other,20,0,70,The user employs hypnotic suggestion to make the target drowsy.,0,0,5,0,3
+Ice Ball,Ice,Physical,20,40,90,"The user hurls a chunk of ice at the target, then becomes fixated on using this move.",0,0,5,0,3
+Ice Beam,Ice,Special,10,80,100,The target is struck with an icy-cold beam of energy. This may also leave the target with frostbite.,0,0,5,0,3
+Ice Fang,Ice,Physical,15,65,95,The user bites the target with cold-infused fangs to deal damage. This may also leave the target with frostbite.,0,0,5,3,5
+Ice Punch,Ice,Physical,10,75,100,The target is punched with an icy fist. This may also leave the target with frostbite.,0,0,5,0,3
+Ice Shard,Ice,Physical,20,40,100,The user flash-freezes chunks of ice and hurls them at the target. This also raises the user's action speed.,-4,-4,2,0,3
+Icicle Crash,Ice,Physical,10,80,90,The user attacks by crashing large icicles onto the target.,0,0,5,3,5
+Icy Wind,Ice,Special,20,60,95,The user attacks with a gust of freezing air.,0,0,5,3,5
+Infernal Parade,Ghost,Special,15,60,100,The user attacks with myriad fireballs. This may also leave the target with a burn. This move's power is doubled if the target has a status condition.,0,0,5,0,3
+Iron Defense,Steel,Other,20,0,101,"The user hardens its body's surface like iron, raising its defensive stats.",-3,-4,5,0,0
+Iron Head,Steel,Physical,10,80,100,The user slams the target with its steel-hard head.,0,0,5,3,5
+Iron Tail,Steel,Physical,5,100,75,The target is slammed with a steel-hard tail. This may also lower the target's defensive stats.,0,0,5,0,3
+Judgment,Normal,Special,5,100,100,The user releases countless shots of light at the target. This move's type varies depending on the kind of Plate the user last interacted with.,0,0,5,0,3
+Leaf Blade,Grass,Physical,10,85,100,The user handles a sharp leaf like a sword and attacks by cutting its target. This move has a heightened chance of landing a critical hit.,0,0,5,0,3
+Leaf Storm,Grass,Special,5,110,90,The user whips up a storm of leaves around the target. The recoil from this move lowers the user's offensive stats.,0,0,5,0,3
+Leafage,Grass,Physical,25,40,100,The user attacks by pelting the target with leaves.,0,0,5,0,3
+Leech Life,Bug,Physical,10,75,100,The user attacks by draining the target's blood. Some of the damage dealt to the target is absorbed by the user to restore their own HP.,0,0,5,0,3
+Liquidation,Water,Physical,10,80,100,The user slams into the target using a full-force blast of water. This may also lower the target's defensive stats.,0,0,5,0,3
+Lunar Blessing,Psychic,Other,10,0,101,The user heals its own status conditions and restores its HP. Incoming moves also become more likely to miss.,0,-3,5,0,0
+Mach Punch,Fighting,Physical,20,40,100,The user throws a punch at blinding speed. This also raises the user's action speed.,-4,-4,2,0,3
+Magical Leaf,Grass,Special,20,60,101,The user scatters curious leaves that chase the target. This attack never misses.,0,0,5,0,3
+Magma Storm,Fire,Special,5,90,75,The user envelops the target in a maelstrom of fire. This also leaves the target with a burn.,0,0,5,0,3
+Megahorn,Bug,Physical,5,100,85,"Using its tough and impressive horn, the user rams into the target to inflict damage.",0,0,5,0,3
+Mimic,Normal,Other,10,0,101,The user copies the target's last move. The move can be used during battle until the Pokémon is switched out.,0,0,0,0,0
+Moonblast,Fairy,Special,10,85,100,"Borrowing the power of the moon, the user attacks the target. This may also lower the target's offensive stats.",0,0,5,0,3
+Mountain Gale,Ice,Physical,5,100,85,The user hurls giant chunks of ice at the target to inflict damage.,5,2,8,3,5
+Mud Bomb,Ground,Special,15,65,85,The user launches a hard-packed mud ball to inflict damage. Incoming moves also become more likely to miss.,0,0,5,0,3
+Mud-Slap,Ground,Special,20,30,100,The user hurls mud in the target's face to inflict damage. Incoming moves also become more likely to miss.,0,0,5,0,3
+Mystical Fire,Fire,Special,10,70,100,"The user attacks by breathing a special, hot fire. This also lowers the target's offensive stats.",0,0,5,0,3
+Mystical Power,Psychic,Special,10,70,90,"The user strengthens itself with a mysterious power. If it excels in offense, its offensive stats are raised. If it excels in defense, its defensive stats are raised.",0,0,5,0,3
+Nasty Plot,Dark,Other,20,0,101,"The user stimulates its brain by thinking bad thoughts, raising the user's offensive stats.",-3,-4,5,0,0
+Night Slash,Dark,Physical,15,70,100,The user slashes the target the instant the target lowers its guard. This move has a heightened chance of landing a critical hit.,0,0,5,0,3
+Octazooka,Water,Special,15,65,85,The user sprays ink in the target's face to inflict damage. Incoming moves also become more likely to miss.,0,0,8,0,3
+Ominous Wind,Ghost,Special,15,60,100,The user blasts the target with a gust of repulsive wind. This may also raise the user's offensive and defensive stats.,0,0,5,0,3
+Outrage,Dragon,Physical,10,90,85,"The user attacks by going on a rampage, then becomes fixated on using this move.",0,0,5,0,3
+Overheat,Fire,Special,5,110,90,The user attacks the target at full power. The recoil from this move lowers the user's offensive stats.,0,0,5,0,3
+Petal Dance,Grass,Special,10,90,85,"The user attacks the target by scattering petals, then becomes fixated on using this move.",0,0,5,0,3
+Pin Missile,Bug,Physical,20,40,100,Sharp spikes are shot at the target. Spike splinters left behind by this attack continue to damage the target for several turns.,0,0,5,0,3
+Play Rough,Fairy,Physical,10,85,90,The user plays rough with the target and attacks it. This may also lower the target's offensive stats.,0,0,5,0,3
+Poison Gas,Poison,Other,20,0,90,The user sprays a cloud of toxic gas that poisons the target.,0,0,5,0,3
+Poison Jab,Poison,Physical,10,80,100,"The target is stabbed with a tentacle, arm, or the like steeped in poison. This may also poison the target.",0,0,5,0,3
+Poison Powder,Poison,Other,20,0,80,The user scatters a cloud of toxic powder that poisons the target.,0,0,5,0,3
+Poison Sting,Poison,Physical,20,30,100,The user stabs the target with a poisonous stinger. This may also poison the target.,0,0,5,0,3
+Powder Snow,Ice,Special,25,40,100,The user attacks with a chilling gust of powdery snow. This may also leave the target with frostbite.,0,0,5,0,3
+Power Gem,Rock,Special,10,80,100,The user attacks with a ray of light that sparkles as if it were made of gemstones.,0,0,5,0,3
+Power Shift,Normal,Other,10,0,101,The user swaps its offensive and defensive stats.,-3,-4,5,0,0
+Psychic,Psychic,Special,10,80,100,The target is hit with a strong telekinetic force to inflict damage. This may also lower the target's defensive stats.,0,0,5,0,3
+Psycho Cut,Psychic,Physical,15,70,100,The user tears at the target with blades formed by psychic power. This move has a heightened chance of landing a critical hit.,0,0,5,0,3
+Psyshield Bash,Psychic,Physical,10,70,90,"Cloaking itself in psychic energy, the user slams into the target. This may also raise the user's defensive stats.",0,0,5,0,3
+Quick Attack,Normal,Physical,20,40,100,"The user lunges at the target to deal damage, moving at a speed that makes it almost invisible. This also raises the user's action speed.",-4,-4,2,0,3
+Raging Fury,Fire,Physical,10,90,85,"The user rampages and spews vicious flames to inflict damage on the target, then becomes fixated on using this move.",0,0,5,0,3
+Recover,Normal,Other,10,0,101,The user regenerates its cells to restore its own HP.,0,-3,5,0,0
+Rest,Psychic,Other,10,0,101,The user restores its own HP but also becomes drowsy.,0,-3,5,0,0
+Roar of Time,Dragon,Special,5,120,90,The user blasts the target with power that distorts even time.,5,2,8,0,3
+Rock Slide,Rock,Physical,10,75,90,Large boulders are hurled at the target to inflict damage.,0,0,5,3,5
+Rock Smash,Fighting,Physical,20,40,100,The user attacks with a punch. This may also lower the target's defensive stats.,0,0,5,0,3
+Rollout,Rock,Physical,20,40,90,"The user rolls into the target to deal damage, then becomes fixated on using this move.",0,0,5,0,3
+Roost,Flying,Other,10,0,101,The user lands and rests its body. This move restores the user's HP.,0,-3,5,0,0
+Sandsear Storm,Ground,Special,5,95,80,The user attacks by wrapping the target in fierce winds and searingly hot sand. This also leaves the target with a burn.,0,0,5,0,3
+Seed Flare,Grass,Special,5,100,85,The user emits a shock wave from its body to attack its target. This may also lower the target's defensive stats.,0,0,5,0,3
+Self-Destruct,Normal,Physical,5,150,100,The user causes an explosion to inflict damage on the target. This also damages the user.,0,0,5,0,3
+Shadow Ball,Ghost,Special,10,80,100,The user hurls a shadowy blob at the target to deal damage. This may also lower the target's defensive stats.,0,0,5,0,3
+Shadow Claw,Ghost,Physical,15,70,100,The user slashes with a sharp claw made from shadows. This move has a heightened chance of landing a critical hit.,0,0,5,0,3
+Shadow Force,Ghost,Physical,5,100,100,The user cloaks itself in darkness as it attacks. Incoming moves also become more likely to miss.,3,1,5,0,3
+Shadow Sneak,Ghost,Physical,20,40,100,The user extends its shadow and attacks the target from behind. This also raises the user's action speed.,-4,-4,2,0,3
+Shelter,Steel,Other,10,0,101,"The user makes its skin as hard as an iron shield, raising its defensive stats. Incoming moves also become more likely to miss.",-2,-3,5,0,0
+Silver Wind,Bug,Special,15,60,100,The target is attacked with powdery scales blown by the wind. This may also raise the user's offensive and defensive stats.,0,0,5,0,3
+Slash,Normal,Physical,15,70,100,The target is attacked with a slash of claws or blades. This move has a heightened chance of landing a critical hit.,0,0,5,0,3
+Sleep Powder,Grass,Other,20,0,80,The user scatters a cloud of sleep-inducing powder that makes the target drowsy.,0,0,5,0,3
+Sludge Bomb,Poison,Special,10,80,100,Unsanitary sludge is hurled at the target to deal damage. This may also poison the target.,0,0,5,0,3
+Snarl,Dark,Special,15,60,100,The user attacks by crying out as if it's ranting about something. This also lowers the target's offensive stats.,0,0,5,0,3
+Soft-Boiled,Normal,Other,10,0,101,The user restores its own HP.,0,-3,5,0,0
+Spacial Rend,Dragon,Special,5,90,95,The user tears the target along with the space around it. This move has a heightened chance of landing a critical hit.,0,0,5,0,3
+Spark,Electric,Physical,20,65,100,The user throws an electrically charged tackle at the target to deal damage. This may also leave the target with paralysis.,0,0,5,0,3
+Spikes,Ground,Physical,20,40,100,The user lays a trap of spikes at the target's feet. The spikes left behind by this attack continue to damage the target for several turns.,0,0,5,0,3
+Splash,Normal,Other,40,0,101,The user just flops and splashes around to no effect at all...,0,0,0,0,0
+Spore,Grass,Other,10,0,100,The user scatters a burst of spores that makes the target drowsy.,0,0,5,0,3
+Springtide Storm,Fairy,Special,5,95,80,The user attacks by wrapping the target in fierce winds brimming with love and hate. This move's additional effects depend on the user's form.,0,0,5,0,3
+Stealth Rock,Rock,Physical,20,40,100,The user launches countless stones at the target. Stone splinters left behind by this attack continue to damage the target for several turns.,0,0,5,0,3
+Steel Beam,Steel,Special,5,120,95,The user fires a beam of steel that it collected from its entire body. This also damages the user.,0,0,5,0,3
+Stone Axe,Rock,Physical,15,65,90,"The user swings its stone axes at the target, aiming to land a critical hit. Stone splinters left behind by this attack continue to damage the target for several turns.",0,0,5,0,3
+Stone Edge,Rock,Physical,5,100,80,The user stabs the target with sharpened stones. This move has a heightened chance of landing a critical hit.,0,0,5,0,3
+Struggle,Normal,Physical,1,50,101,This attack is used in desperation only if the user has no PP. It also damages the user a little.,0,0,0,0,0
+Struggle Bug,Bug,Special,20,40,100,"The user struggles against the target, dealing damage. This also lowers the target's offensive stats.",0,0,5,0,3
+Stun Spore,Grass,Other,20,0,80,The user scatters a cloud of numbing powder that paralyzes the target.,0,0,5,0,3
+Swift,Normal,Special,20,60,101,Star-shaped rays are shot at the target. This attack never misses.,0,0,5,0,3
+Swords Dance,Normal,Other,20,0,101,A frenetic dance to uplift the fighting spirit. This raises the user's offensive stats.,-3,-4,5,0,0
+Tackle,Normal,Physical,30,40,100,A physical attack in which the user charges and slams into the target with its whole body.,0,0,5,0,3
+Take Heart,Psychic,Other,10,0,101,"The user lifts its spirits, healing its own status conditions and raising its offensive and defensive stats.",-2,-3,5,0,0
+Teleport,Psychic,Other,20,0,101,"The user switches places with a party Pokémon in waiting, if there is any able to battle. If a wild Pokémon uses this move, it flees.",0,0,0,0,0
+Thunder,Electric,Special,5,100,75,A wicked thunderbolt is dropped on the target to inflict damage. This may also leave the target with paralysis.,0,0,5,0,3
+Thunder Fang,Electric,Physical,15,65,95,The user bites the target with electrified fangs to deal damage. This may also leave the target with paralysis.,0,0,5,3,5
+Thunder Punch,Electric,Physical,10,75,100,The target is punched with an electrified fist. This may also leave the target with paralysis.,0,0,5,0,3
+Thunder Shock,Electric,Special,25,40,100,The user attacks the target with a jolt of electricity. This may also leave the target with paralysis.,0,0,5,0,3
+Thunder Wave,Electric,Other,20,0,90,The user launches a weak jolt of electricity that paralyzes the target.,0,0,5,0,3
+Thunderbolt,Electric,Special,10,80,100,The user attacks the target with a strong electric blast. This may also leave the target with paralysis.,0,0,5,0,3
+Tri Attack,Normal,Special,10,80,100,"The user strikes with a simultaneous three-beam attack. This may also leave the target with a burn, paralysis, or frostbite.",0,0,5,0,3
+Triple Arrows,Fighting,Physical,15,50,100,"The user delivers an axe kick, then fires three arrows. This raises the chance of its future attacks landing critical hits and also lowers the target's defensive stats.",0,0,5,3,5
+Twister,Dragon,Special,25,40,100,The user whips up a vicious tornado to tear at the target.,0,0,5,3,5
+Venoshock,Poison,Special,15,65,100,The user drenches the target in a special poisonous liquid to inflict damage. This move's power is doubled if the target has a status condition.,0,0,5,0,3
+Victory Dance,Fighting,Other,10,0,101,The user performs a dance to usher in victory. This raises the user's offensive and defensive stats and increases the damage dealt by the user's moves by 50 percent.,-2,-3,5,0,0
+Volt Tackle,Electric,Physical,5,120,100,The user electrifies itself and charges the target to inflict damage. This also damages the user and may leave the target with paralysis.,0,0,5,0,3
+Water Pulse,Water,Special,20,60,101,The user attacks the target with a pulsing blast of water. This attack never misses.,0,0,5,0,3
+Wave Crash,Water,Physical,10,75,100,The user shrouds itself in water and slams into the target with its whole body to inflict damage. This also damages the user and raises the user's action speed.,-4,-4,2,0,3
+Wild Charge,Electric,Physical,10,85,100,The user shrouds itself in electricity and smashes into its target. This also damages the user and may leave the target with paralysis.,0,0,5,0,3
+Wildbolt Storm,Electric,Special,5,95,80,The user summons a thunderous tempest and savagely attacks with lightning and wind. This may also leave the target with paralysis.,0,0,5,0,3
+Wood Hammer,Grass,Physical,5,100,100,The user slams its rugged body into the target to attack. This also damages the user.,0,0,5,0,3
+X-Scissor,Bug,Physical,10,80,100,The user slashes at the target by crossing its scythes or claws as if they were a pair of scissors. This move has a heightened chance of landing a critical hit.,0,0,5,0,3
+Zen Headbutt,Psychic,Physical,10,80,90,The user focuses its willpower to its head and attacks the target.,0,0,5,3,5
